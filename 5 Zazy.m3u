@@ -1,0 +1,581 @@
+#EXTM3U
+#EXTPARAMS:NET=6500
+#EXTINF:-1 group-title="RACING",UK Sky Sports Racing
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/189989.ts
+#EXTINF:-1,UK Racing FHD
+http://ky-iptv.com:80/84924323/97287896/709536.ts
+#EXTINF:-1,UK At The Races
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/1768477.ts
+#EXTINF:-1 group-title="SKY SPORTS",USA Premier League TV
+http://ky-iptv.com:80/84924323/97287896/1383050.ts
+#EXTINF:-1,UK: SKY SPORTS BOX OFFICE
+http://ky-iptv.com:80/84924323/97287896/1688561.ts
+#EXTINF:-1,UK Sky Sports Main Events
+http://ky-iptv.com:80/84924323/97287896/1847084.ts
+#EXTINF:-1,UK Sky Sports Premier League
+http://ky-iptv.com:80/84924323/97287896/1821337.ts
+#EXTINF:-1,UK Sky Sports Football
+http://ky-iptv.com:80/84924323/97287896/1846775.ts
+#EXTINF:-1,UK Sky Sports News
+http://ky-iptv.com:80/84924323/97287896/1769168.ts
+#EXTINF:-1,UK Sky Sports MIX
+http://ky-iptv.com:80/84924323/97287896/1847433.ts
+#EXTINF:-1,UK Sky Sports Arena
+http://ky-iptv.com:80/84924323/97287896/1846772.ts
+#EXTINF:-1,UK Sky Sports Arena 2 (P)
+http://ky-iptv.com:80/84924323/97287896/1769167.ts
+#EXTINF:-1,UK Sky Sports Action
+http://ky-iptv.com:80/84924323/97287896/1846771.ts
+#EXTINF:-1,UK Sky Sports F1
+http://ky-iptv.com:80/84924323/97287896/1846774.ts
+#EXTINF:-1,UK Sky Sports Cricket 1 (P)
+http://ky-iptv.com:80/84924323/97287896/1769162.ts
+#EXTINF:-1,UK SKY SPORTS GOLF HD
+http://ky-iptv.com:80/84924323/97287896/391434.ts
+#EXTINF:-1,UK SkySports F1
+http://ky-iptv.com:80/84924323/97287896/1196396.ts
+#EXTINF:-1 group-title="BT",UK BT Sports 1
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/1846762.ts
+#EXTINF:-1,UK BT Sports 2
+http://ky-iptv.com:80/84924323/97287896/1846763.ts
+#EXTINF:-1,UK BT Sports 3
+http://ky-iptv.com:80/84924323/97287896/1846764.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA 1 HD
+http://ky-iptv.com:80/84924323/97287896/1846767.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA 2 HD
+http://ky-iptv.com:80/84924323/97287896/1846768.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA 3 HD
+http://ky-iptv.com:80/84924323/97287896/1846769.ts
+#EXTINF:-1,UK: BT SPORTS EXTRA 4 HD
+http://ky-iptv.com:80/84924323/97287896/1846770.ts
+#EXTINF:-1,UK BT SPORTS EXTRA 5 HD
+http://ky-iptv.com:80/84924323/97287896/1400409.ts
+#EXTINF:-1,UK BT SPORTS EXTRA 6 HD
+http://ky-iptv.com:80/84924323/97287896/1400410.ts
+#EXTINF:-1,UK BT Sports ESPN HD
+http://ky-iptv.com:80/84924323/97287896/515737.ts
+#EXTINF:-1,UK MUTV HD
+http://ky-iptv.com:80/84924323/97287896/189978.ts
+#EXTINF:-1,UK Box Nation HD
+http://ky-iptv.com:80/84924323/97287896/189910.ts
+#EXTINF:-1,UK Premier Sports 1 FHD
+http://ky-iptv.com:80/84924323/97287896/229003.ts
+#EXTINF:-1,UK PREMIER SPORTS 2
+http://ky-iptv.com:80/84924323/97287896/391420.ts
+#EXTINF:-1,UK FREESPORTS
+http://ky-iptv.com:80/84924323/97287896/391307.ts
+#EXTINF:-1,UK EuroSport 1 HD
+http://ky-iptv.com:80/84924323/97287896/391450.ts
+#EXTINF:-1,UK: Eurosport 1 HD
+http://ky-iptv.com:80/84924323/97287896/1846756.ts
+#EXTINF:-1 group-title="SUPERSPORT",South Africa SuperSport Premier League
+http://ky-iptv.com:80/84924323/97287896/386576.ts
+#EXTINF:-1,South Africa SuperSport Football
+http://ky-iptv.com:80/84924323/97287896/1019733.ts
+#EXTINF:-1,South Africa SUPERSPORT MAXIMO 1
+http://ky-iptv.com:80/84924323/97287896/387382.ts
+#EXTINF:-1,South Africa SuperSport Grandstand
+http://ky-iptv.com:80/84924323/97287896/1328208.ts
+#EXTINF:-1,South Africa SuperSport PSL
+http://ky-iptv.com:80/84924323/97287896/386577.ts
+#EXTINF:-1,South Africa Supersport Play 1
+http://ky-iptv.com:80/84924323/97287896/386575.ts
+#EXTINF:-1,South Africa Supersport Tennis
+http://ky-iptv.com:80/84924323/97287896/386578.ts
+#EXTINF:-1,South Africa SuperSport Rugby
+http://ky-iptv.com:80/84924323/97287896/386579.ts
+#EXTINF:-1,South Africa SuperSport Variety 1
+http://ky-iptv.com:80/84924323/97287896/386580.ts
+#EXTINF:-1,South Africa SuperSport Variety 3
+http://ky-iptv.com:80/84924323/97287896/386582.ts
+#EXTINF:-1,South Africa SuperSport Variety 4
+http://ky-iptv.com:80/84924323/97287896/386583.ts
+#EXTINF:-1,South Africa SuperSport Action
+http://ky-iptv.com:80/84924323/97287896/386585.ts
+#EXTINF:-1,South Africa SuperSport Cricket
+http://ky-iptv.com:80/84924323/97287896/386586.ts
+#EXTINF:-1,South Africa SUPERSPORT MAXIMO 2
+http://ky-iptv.com:80/84924323/97287896/386588.ts
+#EXTINF:-1,South Africa SuperSport Variety 2
+http://ky-iptv.com:80/84924323/97287896/386581.ts
+#EXTINF:-1,South Africa SuperSport Motorsport
+http://ky-iptv.com:80/84924323/97287896/386584.ts
+#EXTINF:-1,South Africa SuperSport Golf
+http://ky-iptv.com:80/84924323/97287896/1019734.ts
+#EXTINF:-1,South Africa SUPERSPORT BLITZ
+http://ky-iptv.com:80/84924323/97287896/386587.ts
+#EXTINF:-1,South Africa SuperSport Euro2020
+http://ky-iptv.com:80/84924323/97287896/1396666.ts
+#EXTINF:-1 group-title="BEIN",BeIN Sports English 1 HD
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/1400762.ts
+#EXTINF:-1,BeIN SPORTS 2 English FHD
+http://ky-iptv.com:80/84924323/97287896/1248327.ts
+#EXTINF:-1,BeIN Sports English 3 FHD
+http://ky-iptv.com:80/84924323/97287896/1400763.ts
+#EXTINF:-1,AR: BEIN SPORTS Premium 1
+http://ky-iptv.com:80/84924323/97287896/515973.ts
+#EXTINF:-1,AR: BEIN SPORTS Premium 1 HD
+http://ky-iptv.com:80/84924323/97287896/1123898.ts
+#EXTINF:-1,AR: BEIN SPORTS Premium 2 HD
+http://ky-iptv.com:80/84924323/97287896/1123899.ts
+#EXTINF:-1,AR: BEIN SPORTS Premium 3 HEVC HD
+http://ky-iptv.com:80/84924323/97287896/1123900.ts
+#EXTINF:-1,AR: beIN Sports 1 FHD
+http://ky-iptv.com:80/84924323/97287896/515957.ts
+#EXTINF:-1,AR: beIN Sports 2 FHD
+http://ky-iptv.com:80/84924323/97287896/515959.ts
+#EXTINF:-1,AR beIN Sports 3 FHD
+http://ky-iptv.com:80/84924323/97287896/515962.ts
+#EXTINF:-1,AR beIN Sports 4 FHD
+http://ky-iptv.com:80/84924323/97287896/515964.ts
+#EXTINF:-1,AR beIN Sports 5 FHD
+http://ky-iptv.com:80/84924323/97287896/515966.ts
+#EXTINF:-1,AR: beIN Sports 6 FHD
+http://ky-iptv.com:80/84924323/97287896/515967.ts
+#EXTINF:-1,AR: beIN Sports 7 FHD
+http://ky-iptv.com:80/84924323/97287896/515968.ts
+#EXTINF:-1,AR: beIN Sports HD
+http://ky-iptv.com:80/84924323/97287896/515995.ts
+#EXTINF:-1,AR: beIN Sports News HD
+http://ky-iptv.com:80/84924323/97287896/515996.ts
+#EXTINF:-1,AR: beIN Sports Max 9
+http://ky-iptv.com:80/84924323/97287896/516014.ts
+#EXTINF:-1,AR- BeIN Sports SD 1
+http://ky-iptv.com:80/84924323/97287896/943521.ts
+#EXTINF:-1,AR- BeIN Sports SD 2
+http://ky-iptv.com:80/84924323/97287896/943522.ts
+#EXTINF:-1,AR: BeIN Sports SD 4
+http://ky-iptv.com:80/84924323/97287896/943524.ts
+#EXTINF:-1,AR- BeIN Sports SD 3
+http://ky-iptv.com:80/84924323/97287896/943523.ts
+#EXTINF:-1,AR- BeIN Sports SD 7
+http://ky-iptv.com:80/84924323/97287896/943527.ts
+#EXTINF:-1,beIN SPORTS MAX 8
+http://ky-iptv.com:80/84924323/97287896/943535.ts
+#EXTINF:-1,AR: beIN Sports Max 4
+http://ky-iptv.com:80/84924323/97287896/516009.ts
+#EXTINF:-1,AR: beIN Sports Max 5
+http://ky-iptv.com:80/84924323/97287896/516010.ts
+#EXTINF:-1,AR: beIN Sports Max 6
+http://ky-iptv.com:80/84924323/97287896/516011.ts
+#EXTINF:-1,AR- BeIN Sports SD 5
+http://ky-iptv.com:80/84924323/97287896/943525.ts
+#EXTINF:-1 group-title="NOW HK",EPL: Now HK Premier Sports 1
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/1391046.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 2
+http://ky-iptv.com:80/84924323/97287896/1391047.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 3
+http://ky-iptv.com:80/84924323/97287896/1391048.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 4
+http://ky-iptv.com:80/84924323/97287896/1391049.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 5
+http://ky-iptv.com:80/84924323/97287896/1391050.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 6
+http://ky-iptv.com:80/84924323/97287896/1391051.ts
+#EXTINF:-1,EPL: Now HK Premier Sports 7
+http://ky-iptv.com:80/84924323/97287896/1391052.ts
+#EXTINF:-1,EPL: Astro SuperSport 1 HD
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/1391035.ts
+#EXTINF:-1,EPL: Astro SuperSport 3 HD
+http://ky-iptv.com:80/84924323/97287896/1391037.ts
+#EXTINF:-1 group-title="DAZN",DAZN 1 HD
+http://ky-iptv.com:80/84924323/97287896/1039265.ts
+#EXTINF:-1,DAZN 2 HD:
+http://ky-iptv.com:80/84924323/97287896/1039266.ts
+#EXTINF:-1,DAZN 3 HD
+http://ky-iptv.com:80/84924323/97287896/1039267.ts
+#EXTINF:-1,DAZN 4 HD
+http://ky-iptv.com:80/84924323/97287896/1039268.ts
+#EXTINF:-1,DAZN 5 HD
+http://ky-iptv.com:80/84924323/97287896/1039269.ts
+#EXTINF:-1,DAZN 6 HD
+http://ky-iptv.com:80/84924323/97287896/1039270.ts
+#EXTINF:-1,DAZN 7 HD
+http://ky-iptv.com:80/84924323/97287896/1039271.ts
+#EXTINF:-1,DAZN 8 HD
+http://ky-iptv.com:80/84924323/97287896/1039272.ts
+#EXTINF:-1,DAZN 9 HD
+http://ky-iptv.com:80/84924323/97287896/1039273.ts
+#EXTINF:-1,DAZN 10 HD
+http://ky-iptv.com:80/84924323/97287896/1039274.ts
+#EXTINF:-1,DAZN 11 HD
+http://ky-iptv.com:80/84924323/97287896/1039275.ts
+#EXTINF:-1,DAZN 12 HD
+http://ky-iptv.com:80/84924323/97287896/1039276.ts
+#EXTINF:-1,DAZN 13 HD
+http://ky-iptv.com:80/84924323/97287896/1039277.ts
+#EXTINF:-1,DE: World DAZN 1
+http://ky-iptv.com:80/84924323/97287896/1039307.ts
+#EXTINF:-1,DE: World DAZN 2
+http://ky-iptv.com:80/84924323/97287896/1039308.ts
+#EXTINF:-1,DE: DAZN 1 Bar HD
+http://ky-iptv.com:80/84924323/97287896/1039309.ts
+#EXTINF:-1,DE: DAZN 2 Bar HD
+http://ky-iptv.com:80/84924323/97287896/1039310.ts
+#EXTINF:-1,IT: Dazn Sport 1 HD
+http://ky-iptv.com:80/84924323/97287896/387183.ts
+#EXTINF:-1,IT: DAZN SPORT 2
+http://ky-iptv.com:80/84924323/97287896/1585986.ts
+#EXTINF:-1,IT: DAZN 4
+http://ky-iptv.com:80/84924323/97287896/1696529.ts
+#EXTINF:-1,ES: DAZN 1 HD (EVENTOS)
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/388230.ts
+#EXTINF:-1,ES: DAZN 2 HD (EVENTOS)
+http://ky-iptv.com:80/84924323/97287896/388231.ts
+#EXTINF:-1,BR: DAZN HD
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/219725.ts
+#EXTINF:-1,BR DAZN #1
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/1039303.ts
+#EXTINF:-1,BR DAZN #2
+http://ky-iptv.com:80/84924323/97287896/1039304.ts
+#EXTINF:-1,BR DAZN #3
+http://ky-iptv.com:80/84924323/97287896/1039305.ts
+#EXTINF:-1,BR DAZN #4
+http://ky-iptv.com:80/84924323/97287896/1039306.ts
+#EXTINF:-1 group-title="RUSH",Carib Rush Plus
+http://ky-iptv.com:80/84924323/97287896/1122612.ts
+#EXTINF:-1,Carib RUSH_Sports_1_HD
+http://ky-iptv.com:80/84924323/97287896/1122611.ts
+#EXTINF:-1,Carib RUSH_Sports_2_HD
+http://ky-iptv.com:80/84924323/97287896/1122606.ts
+#EXTINF:-1,Carib RUSH_Sports_3_HD
+http://ky-iptv.com:80/84924323/#/1122607.ts
+#EXTINF:-1,Carib RUSH_Sports_4_HD
+http://ky-iptv.com:80/84924323/97287896/1122608.ts
+#EXTINF:-1,Carib RUSH_Sports_5_HD
+http://ky-iptv.com:80/84924323/97287896/1122609.ts
+#EXTINF:-1,Carib RUSH_Sports_6_HD
+http://ky-iptv.com:80/84924323/97287896/1122610.ts
+#EXTINF:-1 group-title="RMC",FR: RMC Sport 1 FHD
+http://ky-iptv.com:80/84924323/97287896/1345663.ts
+#EXTINF:-1,FR RMC Sport Access 1 HD
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/182385.ts
+#EXTINF:-1,FR RMC Sport Access 2 HD
+#EXTVLCOPT:program=1
+http://ky-iptv.com:80/84924323/97287896/182386.ts
+#EXTINF:-1,FR: RMC Sport 2 FHD
+http://ky-iptv.com:80/84924323/97287896/1345664.ts
+#EXTINF:-1,FR: RMC Sport Live 2 HD
+http://ky-iptv.com:80/84924323/97287896/182397.ts
+#EXTINF:-1,FR: RMC Sport 3 FHD
+http://ky-iptv.com:80/84924323/97287896/1345665.ts
+#EXTINF:-1,FR RMC Sport Access 3 HD
+http://ky-iptv.com:80/84924323/97287896/182387.ts
+#EXTINF:-1,FR RMC Sport Live 3
+http://ky-iptv.com:80/84924323/97287896/182399.ts
+#EXTINF:-1,FR RMC Sport Live 5 HD
+http://ky-iptv.com:80/84924323/97287896/182402.ts
+#EXTINF:-1,FR RMC Sport Live 6 HD
+http://ky-iptv.com:80/84924323/97287896/182403.ts
+#EXTINF:-1,FR RMC Sport Live 7 HD
+http://ky-iptv.com:80/84924323/97287896/182404.ts
+#EXTINF:-1,FR RMC Sport Live 8 HD
+http://ky-iptv.com:80/84924323/97287896/182405.ts
+#EXTINF:-1,FR RMC Sport Live 9 HD
+http://ky-iptv.com:80/84924323/97287896/182406.ts
+#EXTINF:-1,FR RMC Sport Live 10 HD
+http://ky-iptv.com:80/84924323/97287896/182390.ts
+#EXTINF:-1,FR RMC Sport Live 11 HD
+http://ky-iptv.com:80/84924323/97287896/182391.ts
+#EXTINF:-1,FR RMC Sport Live 12 HD
+http://ky-iptv.com:80/84924323/97287896/182392.ts
+#EXTINF:-1,FR RMC Sport Live 13 HD
+http://ky-iptv.com:80/84924323/97287896/182393.ts
+#EXTINF:-1,FR RMC Sport Live 14 HD
+http://ky-iptv.com:80/84924323/97287896/182394.ts
+#EXTINF:-1,FR RMC Sport Live 15 HD
+http://ky-iptv.com:80/84924323/97287896/182395.ts
+#EXTINF:-1,FR RMC Sport Live 16 HD
+http://ky-iptv.com:80/84924323/97287896/182396.ts
+#EXTINF:-1 group-title="SPORT TV",PT: SPORT TV 1 FHD
+http://ky-iptv.com:80/84924323/97287896/399398.ts
+#EXTINF:-1,PT: SPORT TV 2 FHD
+http://ky-iptv.com:80/84924323/97287896/399401.ts
+#EXTINF:-1,PT: SPORT TV 3 FHD
+http://ky-iptv.com:80/84924323/97287896/399404.ts
+#EXTINF:-1,PT: SPORT TV 4 FHD
+http://ky-iptv.com:80/84924323/97287896/399407.ts
+#EXTINF:-1,PT: SPORT TV 5 FHD
+http://ky-iptv.com:80/84924323/97287896/399410.ts
+#EXTINF:-1,PT: SPORT TV 1 SD
+http://ky-iptv.com:80/84924323/97287896/1901260.ts
+#EXTINF:-1,PT: SPORT TV 2 SD
+http://ky-iptv.com:80/84924323/97287896/1225722.ts
+#EXTINF:-1,PT: SPORT TV3 SD
+http://ky-iptv.com:80/84924323/97287896/1919873.ts
+#EXTINF:-1,PT: SPORT TV4 SD
+http://ky-iptv.com:80/84924323/97287896/1919874.ts
+#EXTINF:-1,PT: SPORT TV5 SD
+http://ky-iptv.com:80/84924323/97287896/1919875.ts
+#EXTINF:-1,PT: SPORT TV 6
+http://ky-iptv.com:80/84924323/97287896/1908869.ts
+#EXTINF:-1 group-title="Germany SKY",DE: Sky Sport 1 FHD
+http://ky-iptv.com:80/84924323/97287896/182951.ts
+#EXTINF:-1,DE: Sky Sport 2 FHD
+http://ky-iptv.com:80/84924323/97287896/182953.ts
+#EXTINF:-1,DE: Sky Sport 3 HD
+http://ky-iptv.com:80/84924323/97287896/182955.ts
+#EXTINF:-1,DE: Sky Sport 4 HD
+http://ky-iptv.com:80/84924323/97287896/182956.ts
+#EXTINF:-1,DE: Sky Sport 5 FHD
+http://ky-iptv.com:80/84924323/97287896/182957.ts
+#EXTINF:-1,DE: Sky Sport 6 FHD
+http://ky-iptv.com:80/84924323/97287896/182959.ts
+#EXTINF:-1,DE: Sky Sport 7 FHD
+http://ky-iptv.com:80/84924323/97287896/182961.ts
+#EXTINF:-1,DE: Sky Sport 8 FHD
+http://ky-iptv.com:80/84924323/97287896/182963.ts
+#EXTINF:-1,DE: Sky Sport 9 HD
+http://ky-iptv.com:80/84924323/97287896/182965.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 1 HD
+http://ky-iptv.com:80/84924323/97287896/182967.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 2 FHD
+http://ky-iptv.com:80/84924323/97287896/182968.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 3 FHD
+http://ky-iptv.com:80/84924323/97287896/182970.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 4 HD
+http://ky-iptv.com:80/84924323/97287896/182972.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 5 FHD
+http://ky-iptv.com:80/84924323/97287896/182973.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 6 HD
+http://ky-iptv.com:80/84924323/97287896/182975.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 7 FHD
+http://ky-iptv.com:80/84924323/97287896/182976.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 8 HD
+http://ky-iptv.com:80/84924323/97287896/182978.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 9 HD
+http://ky-iptv.com:80/84924323/97287896/182979.ts
+#EXTINF:-1,DE: Sky Sport Bundesliga 10 HD
+http://ky-iptv.com:80/84924323/97287896/182980.ts
+#EXTINF:-1 group-title="DUTCH",NL: Ziggo Sport Voetbal
+http://ky-iptv.com:80/84924323/97287896/222517.ts
+#EXTINF:-1,NL: Ziggo Sport Select FHD
+http://ky-iptv.com:80/84924323/97287896/222493.ts
+#EXTINF:-1,NL: Ziggo Extra1
+http://ky-iptv.com:80/84924323/97287896/222522.ts
+#EXTINF:-1,NL: ESPN 1 HD
+http://ky-iptv.com:80/84924323/97287896/222508.ts
+#EXTINF:-1,NL: ESPN 2 HD
+http://ky-iptv.com:80/84924323/97287896/222509.ts
+#EXTINF:-1,NL: ESPN 3
+http://ky-iptv.com:80/84924323/97287896/222503.ts
+#EXTINF:-1,NL: ESPN 4
+http://ky-iptv.com:80/84924323/97287896/222502.ts
+#EXTINF:-1 group-title="Romania",RO: DIGI SPORT 1
+http://ky-iptv.com:80/84924323/97287896/228818.ts
+#EXTINF:-1,RO: DIGI SPORT 2
+http://ky-iptv.com:80/84924323/97287896/228820.ts
+#EXTINF:-1,RO: DIGI SPORT 3
+http://ky-iptv.com:80/84924323/97287896/228822.ts
+#EXTINF:-1,RO: DIGI SPORT 4
+http://ky-iptv.com:80/84924323/97287896/228824.ts
+#EXTINF:-1,RO: EUROSPORT 1
+http://ky-iptv.com:80/84924323/97287896/228843.ts
+#EXTINF:-1,RO: EUROSPORT 2
+http://ky-iptv.com:80/84924323/97287896/228844.ts
+#EXTINF:-1 group-title="Greece Sports",GR: Cosmote Sport 1 HD
+http://ky-iptv.com:80/84924323/97287896/1138972.ts
+#EXTINF:-1,GR: Cosmote Sport 2 HD
+http://ky-iptv.com:80/84924323/97287896/1243278.ts
+#EXTINF:-1,GR: Cosmote Sport 3 HD
+http://ky-iptv.com:80/84924323/97287896/1243279.ts
+#EXTINF:-1,GR: COSMOTE SPORT 4 HD
+http://ky-iptv.com:80/84924323/97287896/498926.ts
+#EXTINF:-1,GR: COSMOTE SPORT 6 HD
+http://ky-iptv.com:80/84924323/97287896/1651451.ts
+#EXTINF:-1,GR: Cosmote Sport 7 HD
+http://ky-iptv.com:80/84924323/97287896/1651452.ts
+#EXTINF:-1,GR: Cosmote Sport 8 HD
+http://ky-iptv.com:80/84924323/97287896/1651454.ts
+#EXTINF:-1,GR: NOVA SPORTS 1 HD
+http://ky-iptv.com:80/84924323/97287896/498865.ts
+#EXTINF:-1,GR: NOVA SPORTS 2 HD
+http://ky-iptv.com:80/84924323/97287896/498866.ts
+#EXTINF:-1,GR: NOVA SPORTS 3 HD
+http://ky-iptv.com:80/84924323/97287896/498867.ts
+#EXTINF:-1,GR: NOVA SPORT 4 HD
+http://ky-iptv.com:80/84924323/97287896/1138971.ts
+#EXTINF:-1,GR: Nova Sport 5 HD
+http://ky-iptv.com:80/84924323/97287896/315653.ts
+#EXTINF:-1 group-title="iFollow EFL",UKEFLC 01 :
+http://ky-iptv.com:80/84924323/97287896/1852647.ts
+#EXTINF:-1,UKEFLC 02 :
+http://ky-iptv.com:80/84924323/97287896/1852648.ts
+#EXTINF:-1,UKEFLC 03 :
+http://ky-iptv.com:80/84924323/97287896/1852649.ts
+#EXTINF:-1,UKEFLC 04 :
+http://ky-iptv.com:80/84924323/97287896/1852650.ts
+#EXTINF:-1,UKEFLC 05 :
+http://ky-iptv.com:80/84924323/97287896/1852651.ts
+#EXTINF:-1,UKEFLC 06 :
+http://ky-iptv.com:80/84924323/97287896/1852652.ts
+#EXTINF:-1,UKEFLC 07 :
+http://ky-iptv.com:80/84924323/97287896/1852653.ts
+#EXTINF:-1,UKEFLC 08 :
+http://ky-iptv.com:80/84924323/97287896/1852654.ts
+#EXTINF:-1,UKEFLC 09 :
+http://ky-iptv.com:80/84924323/97287896/1852655.ts
+#EXTINF:-1,UKEFLC 10 :
+http://ky-iptv.com:80/84924323/97287896/1852656.ts
+#EXTINF:-1 group-title="UK: Entertainment",UK Paramount
+http://ky-iptv.com:80/84924323/97287896/189873.ts
+#EXTINF:-1,UK 5 Star
+http://ky-iptv.com:80/84924323/97287896/189874.ts
+#EXTINF:-1,UK BBC 1
+http://ky-iptv.com:80/84924323/97287896/189890.ts
+#EXTINF:-1,UK BBC 2
+http://ky-iptv.com:80/84924323/97287896/189891.ts
+#EXTINF:-1,UK CBS Justice
+http://ky-iptv.com:80/84924323/97287896/189917.ts
+#EXTINF:-1,UK CBS Reality
+http://ky-iptv.com:80/84924323/97287896/189918.ts
+#EXTINF:-1,UK Channel 4 HD
+http://ky-iptv.com:80/84924323/97287896/189920.ts
+#EXTINF:-1,UK Channel 5
+http://ky-iptv.com:80/84924323/97287896/189921.ts
+#EXTINF:-1,UK Colors Rishtey
+http://ky-iptv.com:80/84924323/97287896/189926.ts
+#EXTINF:-1,UK Comedy Central Extra
+http://ky-iptv.com:80/84924323/97287896/189928.ts
+#EXTINF:-1,UK Comedy Central FHD
+http://ky-iptv.com:80/84924323/97287896/189929.ts
+#EXTINF:-1,UK Crime & Investigation HD
+http://ky-iptv.com:80/84924323/97287896/189930.ts
+#EXTINF:-1,UK Dave HD
+http://ky-iptv.com:80/84924323/97287896/189931.ts
+#EXTINF:-1,UK DMAX HD
+http://ky-iptv.com:80/84924323/97287896/189939.ts
+#EXTINF:-1,UK Drama
+http://ky-iptv.com:80/84924323/97287896/189940.ts
+#EXTINF:-1,UK E!
+http://ky-iptv.com:80/84924323/97287896/189941.ts
+#EXTINF:-1,UK Gold
+http://ky-iptv.com:80/84924323/97287896/189951.ts
+#EXTINF:-1,UK Itv 4
+http://ky-iptv.com:80/84924323/97287896/189961.ts
+#EXTINF:-1,UK ITVBE
+http://ky-iptv.com:80/84924323/97287896/189962.ts
+#EXTINF:-1,UK MTV FHD
+http://ky-iptv.com:80/84924323/97287896/189973.ts
+#EXTINF:-1,UK Quest Red HD
+http://ky-iptv.com:80/84924323/97287896/189988.ts
+#EXTINF:-1,UK SKY One
+http://ky-iptv.com:80/84924323/97287896/189999.ts
+#EXTINF:-1,UK Star Bharat
+http://ky-iptv.com:80/84924323/97287896/190008.ts
+#EXTINF:-1,UK Star Gold
+http://ky-iptv.com:80/84924323/97287896/190009.ts
+#EXTINF:-1,UK STV HD
+http://ky-iptv.com:80/84924323/97287896/190011.ts
+#EXTINF:-1,UK Talking Pictures HD
+http://ky-iptv.com:80/84924323/97287896/190013.ts
+#EXTINF:-1,UK TLC
+http://ky-iptv.com:80/84924323/97287896/190017.ts
+#EXTINF:-1,UK Watch
+http://ky-iptv.com:80/84924323/97287896/190027.ts
+#EXTINF:-1,UK Zing
+http://ky-iptv.com:80/84924323/97287896/190030.ts
+#EXTINF:-1,UK ITV 3 HD
+http://ky-iptv.com:80/84924323/97287896/199506.ts
+#EXTINF:-1,UK E4
+http://ky-iptv.com:80/84924323/97287896/391210.ts
+#EXTINF:-1,UK 5 USA
+http://ky-iptv.com:80/84924323/97287896/391253.ts
+#EXTINF:-1,UK CBS DRAMA
+http://ky-iptv.com:80/84924323/97287896/391272.ts
+#EXTINF:-1,UK PBS AMERICA SD
+http://ky-iptv.com:80/84924323/97287896/391325.ts
+#EXTINF:-1,UK ITV 2 HD
+http://ky-iptv.com:80/84924323/97287896/391480.ts
+#EXTINF:-1,UK MORE 4 FHD
+http://ky-iptv.com:80/84924323/97287896/391498.ts
+#EXTINF:-1,UK TRU TV
+http://ky-iptv.com:80/84924323/97287896/391499.ts
+#EXTINF:-1,UK Quest
+http://ky-iptv.com:80/84924323/97287896/391501.ts
+#EXTINF:-1,UK Alibi
+http://ky-iptv.com:80/84924323/97287896/391257.ts
+#EXTINF:-1,UK CHALLENGE TV
+http://ky-iptv.com:80/84924323/97287896/391270.ts
+#EXTINF:-1,UK Blaze
+http://ky-iptv.com:80/84924323/97287896/189905.ts
+#EXTINF:-1,UK Sky Atlantic
+http://ky-iptv.com:80/84924323/97287896/190001.ts
+#EXTINF:-1,UK Good Food
+http://ky-iptv.com:80/84924323/97287896/189952.ts
+#EXTINF:-1,UK CBBC
+http://ky-iptv.com:80/84924323/97287896/189914.ts
+#EXTINF:-1,UK BBC One Northern Ireland
+http://ky-iptv.com:80/84924323/97287896/189895.ts
+#EXTINF:-1,UK Nat Geo Wild
+http://ky-iptv.com:80/84924323/97287896/189980.ts
+#EXTINF:-1,UK Food Network
+http://ky-iptv.com:80/84924323/97287896/189947.ts
+#EXTINF:-1,UK Great TV
+http://ky-iptv.com:80/84924323/97287896/190021.ts
+#EXTINF:-1,UK 5 Select HD
+http://ky-iptv.com:80/84924323/97287896/391500.ts
+#EXTINF:-1,UK: PICK FHD
+http://ky-iptv.com:80/84924323/97287896/391327.ts
+#EXTINF:-1,UK ANIMAL PLANET
+http://ky-iptv.com:80/84924323/97287896/391170.ts
+#EXTINF:-1,UK Zee TV
+http://ky-iptv.com:80/84924323/97287896/190029.ts
+#EXTINF:-1,UK Sky 2 FHD
+http://ky-iptv.com:80/84924323/97287896/515731.ts
+#EXTINF:-1,UK Sky Arts
+http://ky-iptv.com:80/84924323/97287896/190000.ts
+#EXTINF:-1,UK Syfy
+http://ky-iptv.com:80/84924323/97287896/391330.ts
+#EXTINF:-1,UK Really
+http://ky-iptv.com:80/84924323/97287896/189990.ts
+#EXTINF:-1,UK Channel 5+1
+http://ky-iptv.com:80/84924323/97287896/1038162.ts
+#EXTINF:-1,UK Sky Crime
+http://ky-iptv.com:80/84924323/97287896/190019.ts
+#EXTINF:-1,UK Sab TV (SET)
+http://ky-iptv.com:80/84924323/97287896/189998.ts
+#EXTINF:-1,UK ICONCERTS
+http://ky-iptv.com:80/84924323/97287896/188357.ts
+#EXTINF:-1,UK BBC Alba
+http://ky-iptv.com:80/84924323/97287896/189893.ts
+#EXTINF:-1,UK ITV 1 HD
+http://ky-iptv.com:80/84924323/97287896/1151892.ts
+#EXTINF:-1,UK BBC One Wales
+http://ky-iptv.com:80/84924323/97287896/189897.ts
+#EXTINF:-1,UK Life Time HD
+http://ky-iptv.com:80/84924323/97287896/189964.ts
+#EXTINF:-1,UK POP +1
+http://ky-iptv.com:80/84924323/97287896/1400870.ts
+#EXTINF:-1,UK BBC Scotland
+http://ky-iptv.com:80/84924323/97287896/1447404.ts
+#EXTINF:-1,UK Sky Two
+http://ky-iptv.com:80/84924323/97287896/190005.ts
+#EXTINF:-1,UK CBS Action
+http://ky-iptv.com:80/84924323/97287896/189916.ts
+#EXTINF:-1,UK Star Plus (Utsav Plus)
+http://ky-iptv.com:80/84924323/97287896/190010.ts
+#EXTINF:-1,UK: High Street TV
+http://ky-iptv.com:80/84924323/97287896/1447403.ts
+#EXTINF:-1,UK HGTV
+http://ky-iptv.com:80/84924323/97287896/1077497.ts
+#EXTINF:-1,UK BRITISH MUSLIM TV SD
+http://ky-iptv.com:80/84924323/97287896/391196.ts
+#EXTINF:-1,UK UTV Northern Ireland
+http://ky-iptv.com:80/84924323/97287896/190025.ts
+#EXTINF:-1,UK London Live
+http://ky-iptv.com:80/84924323/97287896/189965.ts
+#EXTINF:-1,UK BBC Four
+http://ky-iptv.com:80/84924323/97287896/1858077.ts
+#EXTINF:-1,UK 4SEVEN
+http://ky-iptv.com:80/84924323/97287896/189872.ts
